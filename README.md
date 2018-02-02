@@ -87,3 +87,4 @@ Graphs
 •	BFS - will on non weighted
 •	Dijkstra - will on weighted
 •	Floyd Warshall - shortest paths on all, negative weights.
+ 
