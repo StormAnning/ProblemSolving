@@ -5,11 +5,13 @@
 -	Understand signedness and implications of shifting
 -	Consider caching bit values, e.g. we pre-compute partitys..
 -	Be aware of commutativity and associativity can be used to perform stuff in parallel
+
 #Arrays
 -	Often have simple brute force solutions that use O(n) space
 -	Filling from front is slow - so try to fill from the back
 -	Instead of deleting an entry that requires shifting -> overwrite it- or swap with last, and delete!
 -	Consider processing from the back of the array for integers
+
 #Strings
 -	Often have simple brute force solutions that use O(n) space
 -	Updating string from the front is slow - so write form the back
